@@ -1,0 +1,14 @@
+.container{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.button-div{
+    display: inline;
+}
+.icon-pic{
+    height:70px
+}
+.buy-container{
+    display:none;
+}
